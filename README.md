@@ -11,6 +11,13 @@ guidlines on how to import datasers from Kaggle and basic file operations
 ```
 link == https://github.com/Khai2708/Ai_application/blob/main/Intro_to_colab.ipynb
 
+### Week 4 lab session
+```
+In this week, we trained basic operations like importing numpy,
+define LEARNING_RATE and index_list. We defined the x_train and y_train.
+```
+link for week 4 lab session = https://github.com/Khai2708/Ai_application/blob/main/week4.ipynb
+
 ### Week 5 Lab Session
 ```
 In this lab session we learned about
@@ -76,4 +83,18 @@ link for week6 session 2 colab = https://github.com/Khai2708/Ai_application/blob
 
 ![image](https://user-images.githubusercontent.com/90145797/197148799-6b520527-a12b-4640-9c6a-5e7d8c637809.png)
 
+### Week7 lab session 1_1
+```
+Here, we import torchvision that can be used for torchvision transforms. 
+And also DataLoader, we used matplotlib and Data loader to draw an image.
+importing numpy will enable us to install the shape. 
+```
+link for week7 lab 1_1 = https://github.com/Khai2708/Ai_application/blob/main/Week7_1_1_CIFAR10.ipynb
 
+### Week 7 all activities
+```
+In this lab session we install requests, and imported it in order to get url.
+Then we imported the torch library and many other that are needed to compile this project. Data will be loaded from Dataloader and also we ave the batch size here. 
+And we defined trainset and testset so firt we downloded the files and verified.
+```
+link for week7 all sessions = https://github.com/Khai2708/Ai_application/blob/main/week7All_1_2%2C1_3%2C1_4%2C1_5.ipynb

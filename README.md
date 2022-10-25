@@ -93,8 +93,13 @@ link for week7 lab 1_1 = https://github.com/Khai2708/Ai_application/blob/main/We
 
 ### Week 7 all activities
 ```
-In this lab session we install requests, and imported it in order to get url.
-Then we imported the torch library and many other that are needed to compile this project. Data will be loaded from Dataloader and also we ave the batch size here. 
-And we defined trainset and testset so firt we downloded the files and verified.
+In this lab session we install requests, and 
+imported it in order to get url.
+Then we imported the torch library and many other 
+that are needed to compile this project. 
+Data will be loaded from Dataloader and also 
+we ave the batch size here. 
+And we defined trainset and testset so firt we 
+downloded the files and verified.
 ```
 link for week7 all sessions = https://github.com/Khai2708/Ai_application/blob/main/week7All_1_2%2C1_3%2C1_4%2C1_5.ipynb

@@ -103,3 +103,20 @@ And we defined trainset and testset so firt we
 downloded the files and verified.
 ```
 link for week7 all sessions = https://github.com/Khai2708/Ai_application/blob/main/week7All_1_2%2C1_3%2C1_4%2C1_5.ipynb
+
+### Week 9 TensorFlow continue...
+```
+Here we imported tensorflow and related datasets from tensorflow keras.
+We imported numpy as well. We set EPOCHS and BATCH_SIZE accordingly.
+```
+link for week9_1 lab session = https://github.com/Khai2708/Ai_application/blob/main/week9_activity.ipynb
+link for week9_2 lab sessions = https://github.com/Khai2708/Ai_application/blob/main/Week9_2.ipynb
+
+### Week 10 Torchvision
+```
+Here we imported the torch and necessary libraries. And we defined device torch.
+And we loaded and processed the image and resize it through transform lib.
+Parameters are documented at pytorch.org and Convert to 4-dimensional tensor.
+```
+link for week10_1 = https://github.com/Khai2708/Ai_application/blob/main/Week10_lab.ipynb
+link for week10_2 = 

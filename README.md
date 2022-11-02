@@ -110,6 +110,7 @@ Here we imported tensorflow and related datasets from tensorflow keras.
 We imported numpy as well. We set EPOCHS and BATCH_SIZE accordingly.
 ```
 link for week9_1 lab session = https://github.com/Khai2708/Ai_application/blob/main/week9_activity.ipynb
+
 link for week9_2 lab sessions = https://github.com/Khai2708/Ai_application/blob/main/Week9_2.ipynb
 
 ### Week 10 Torchvision
@@ -119,4 +120,6 @@ And we loaded and processed the image and resize it through transform lib.
 Parameters are documented at pytorch.org and Convert to 4-dimensional tensor.
 ```
 link for week10_1 = https://github.com/Khai2708/Ai_application/blob/main/Week10_lab.ipynb
+
+##### Different ways to build Keras models
 link for week10_2 = 

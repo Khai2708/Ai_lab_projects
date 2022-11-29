@@ -82,6 +82,8 @@ and then plotting them as an output
 link for week6 session 2 colab = https://github.com/Khai2708/Ai_application/blob/main/week6_part2.ipynb
 
 ![image](https://user-images.githubusercontent.com/90145797/197148799-6b520527-a12b-4640-9c6a-5e7d8c637809.png)
+![image](https://user-images.githubusercontent.com/90145797/204461757-4d8b85e1-ad86-487a-bfec-ba1610552dec.png)
+
 
 ### Week7 lab session 1_1
 ```

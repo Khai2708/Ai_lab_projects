@@ -125,3 +125,39 @@ link for week10_1 = https://github.com/Khai2708/Ai_application/blob/main/Week10_
 
 ##### Different ways to build Keras models
 link for week10_2 = 
+https://github.com/Khai2708/Ai_application/blob/main/Week10_Lab_2.ipynb
+
+### Week 11 Torchvision
+```
+Here we imported the torch and necessary libraries. And we defined device torch.
+And we loaded and processed the image and resize it through transform lib.
+Parameters are documented at pytorch.org and Convert to 4-dimensional tensor.
+```
+link for week11 = 
+
+### Week 12 Torchvision
+```
+Here we imported the torch and necessary libraries. And we defined device torch.
+And we loaded and processed the image and resize it through transform lib.
+Parameters are documented at pytorch.org and Convert to 4-dimensional tensor.
+```
+link for week12 = 
+
+### Week 13 Torchvision
+```
+Here we imported the torch and necessary libraries. And we defined device torch.
+And we loaded and processed the image and resize it through transform lib.
+Parameters are documented at pytorch.org and Convert to 4-dimensional tensor.
+```
+link for week13_Lab1 = 
+
+link for week13_ = 
+
+
+### Week 14 Torchvision
+```
+Here we imported the torch and necessary libraries. And we defined device torch.
+And we loaded and processed the image and resize it through transform lib.
+Parameters are documented at pytorch.org and Convert to 4-dimensional tensor.
+```
+link for week14 = 

@@ -121,37 +121,87 @@ Here we imported the torch and necessary libraries. And we defined device torch.
 And we loaded and processed the image and resize it through transform lib.
 Parameters are documented at pytorch.org and Convert to 4-dimensional tensor.
 ```
-link for week10_1 = https://github.com/Khai2708/Ai_application/blob/main/Week10_lab.ipynb
+link for week10_1-1,2= https://github.com/Khai2708/Ai_application/blob/main/Week10_1_1%2C1_2lab.ipynb
+
+![image](https://user-images.githubusercontent.com/90145797/205660366-cbc80edd-5b8f-4ca0-bc41-0736cb38e3d9.png)
+
 
 ##### Different ways to build Keras models
 link for week10_2 = 
 https://github.com/Khai2708/Ai_application/blob/main/Week10_Lab_2.ipynb
 
+![image](https://user-images.githubusercontent.com/90145797/205660621-d2a7b6b3-e196-4ef9-b001-4fefd86294af.png)
+
+
+link for week10_lab3 = https://github.com/Khai2708/Ai_application/blob/main/Week10_Lab__3_ypynb.ipynb
+
+![image](https://user-images.githubusercontent.com/90145797/205661269-bbf80656-59b0-406d-bc04-6590b32c9120.png)
+
+
 ### Week 11 Torchvision
 ```
-Here we imported the torch and necessary libraries. And we defined device torch.
-And we loaded and processed the image and resize it through transform lib.
-Parameters are documented at pytorch.org and Convert to 4-dimensional tensor.
+In week 11, we saved datagenerators as file to colab working directory, 
+Read data and split up into train and test data. And we import pandas, 
+to read book store sales data and plot it. 
+Plot dataset, 
+Plot naive prediction
+Standardize train and test data. Custom layer that retrieves 
+only last time step from RNN output.
+Create train examples, Create RNN model
+Create test examples, Loss function and optimizer.
+Create Dataset objects. Create naive prediction based on standardized data
+Train model.
 ```
-link for week11 = 
+link for week11 = https://github.com/Khai2708/Ai_application/blob/main/week11.ipynb
 
-### Week 12 Torchvision
+![image](https://user-images.githubusercontent.com/90145797/205657508-6c3c4052-06a1-4679-83dd-fa5dfe5585a4.png)
+![image](https://user-images.githubusercontent.com/90145797/205657572-3f642539-8b99-40db-b7bb-ab1476dc7ca4.png)
+![image](https://user-images.githubusercontent.com/90145797/205657693-32782d7e-92dc-482e-9f1c-e0b450da63a2.png)
+
+
+### Week 12 Simple LSTM-based model
 ```
-Here we imported the torch and necessary libraries. And we defined device torch.
-And we loaded and processed the image and resize it through transform lib.
-Parameters are documented at pytorch.org and Convert to 4-dimensional tensor.
+In week 12 lab, we traine and datas frm the jena-clinate.csv. 
+Firts, we donwloded necessary data from keras dataset and 
+imported os and open to read it. we plotted the graph using
+matplotlib and Compute the number of samples we'll use for 
+each data split, Normalizing the data, 
+Instantiating datasets for training, validation, and testing,
+Inspecting the output of one of our datasets
+Computing the common-sense baseline MAE,
+Training and evaluating a densely connected model
+And Plotting results of loss & val_loss and tried try 
+a 1D convolution model, and tried Simple LSTM-based model
 ```
-link for week12 = 
+link for week12 = https://github.com/Khai2708/Ai_application/blob/main/Week12_Lab_1_0%2C1%2C2%2C3.ipynb
+
+![image](https://user-images.githubusercontent.com/90145797/205657055-138b4117-6a80-4383-99b8-86a59d29880a.png)
+
 
 ### Week 13 Torchvision
 ```
-Here we imported the torch and necessary libraries. And we defined device torch.
-And we loaded and processed the image and resize it through transform lib.
-Parameters are documented at pytorch.org and Convert to 4-dimensional tensor.
-```
-link for week13_Lab1 = 
+In week 13, we practised layers like using the TextVectorization 
+layer and Vectorizer as a class.  We displayed the vocabulary with 
+text_vectorization with get_vocabulary(). And then we downloaded 
+necessary data from stanford.edu . Then Displaying the shapes and 
+dtypes of the first batch, 
+Processing words as a set: The bag-of-words approach, single words 
+(unigrams) with binary encoding,
+preprocessing our datasets with a Text Vectorization layer, 
+training and testing the binary unigram model, 
+training and testing the binary bigram model,
+Training and testing the TF-IDF bigram model.
 
-link for week13_ = 
+```
+link for week13_part1-1-7 = https://github.com/Khai2708/AI_application_finalproject/blob/main/Week13_Lab_1_7.ipynb
+
+![image](https://user-images.githubusercontent.com/90145797/205653825-f9a37e60-259b-4503-bdc2-4562ffa06606.png)
+
+
+link for week13_part2_all = https://github.com/Khai2708/Ai_application/blob/main/Week13_Lab2_all.ipynb
+
+![image](https://user-images.githubusercontent.com/90145797/205654070-9b32b1cd-7134-475a-9e95-a13c225aff07.png)
+
 
 
 ### Week 14 part1_Transformer
@@ -172,6 +222,7 @@ The Transformer encoder
 Combining the Transformer encoder with positional embedding.
 ```
 link for week14_part1 = https://github.com/Khai2708/AI_application_finalproject/blob/main/Week14LabAI_part1_transformer.ipynb
+
 ![image](https://user-images.githubusercontent.com/90145797/205643306-c7954db0-d762-43f7-80a1-d5b64a1739aa.png)
 
 ### Week 14 part2_Sequence to sequence learning
@@ -194,5 +245,8 @@ new sentences  with our Transformer model
 
 ```
 
-link for week14_part2 = 
+link for week14_part2 = https://github.com/Khai2708/AI_application_finalproject/blob/main/Week14AILab_part2.ipynb
+
+![image](https://user-images.githubusercontent.com/90145797/205660913-f413a259-563b-4c82-9aa9-6e189d5767f5.png)
+
 

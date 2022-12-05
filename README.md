@@ -154,10 +154,45 @@ link for week13_Lab1 =
 link for week13_ = 
 
 
-### Week 14 Torchvision
+### Week 14 part1_Transformer
 ```
-Here we imported the torch and necessary libraries. And we defined device torch.
-And we loaded and processed the image and resize it through transform lib.
-Parameters are documented at pytorch.org and Convert to 4-dimensional tensor.
+In the first part of in week 14 lab, we learned the The Transformer architecture
+Understanding self-attention
+Generalized self-attention: the query-key-value model
+Multi-head attention
+The Transformer encoder
+  ~First we get the data from stanford.edu and some packages of IMDB.
+  Then we prepared the data with impoer necessary libraries like os, pathlib,
+  shutil, random, tensorflow. Vectorizing the data and Transformer encoder 
+  implemented as a subclassed Layer are the next steps. After Using the 
+  Transformer encoder for text classification, we trained and evaluated 
+  the Transformer encoder based model. Next step is Using positional encoding 
+  to re-inject order information as like Implementing positional embedding as 
+  a subclassed layer. Putting it all together: A text-classification Transformer
+Combining the Transformer encoder with positional embedding.
 ```
-link for week14 = 
+link for week14_part1 = https://github.com/Khai2708/AI_application_finalproject/blob/main/Week14LabAI_part1_transformer.ipynb
+![image](https://user-images.githubusercontent.com/90145797/205643306-c7954db0-d762-43f7-80a1-d5b64a1739aa.png)
+
+### Week 14 part2_Sequence to sequence learning
+```
+In weel 14 Lab part 2 we are going to learn the Sequence-to-sequence learning. 
+At first, we downloaded necessary data files from tensorflow. Then, we 
+defined some variables like num_val_samples, num_train_Preparing 
+datasets for the translation tasksamples, train_pairs, val_pairs, t
+est_pairs. Vectorizing the English and Spanish text pairs and Preparing 
+datasets for the translation task, we printed inputs. 
+ - Sequence-to-sequence learning with RNNs, creating GRU-based encoder 
+ GRU-based decoder and the end-to-end model, we trained our recurrent 
+ sequence-to-sequence model. And then, Translating new sentences with our 
+ RNN encoder and decoder.
+- Sequence-to-sequence learning with Transformer
+First, we defined The TransformerDecoder and The TransformerEncoder 
+and Putting it all together: A Transformer for machine translation, 
+we trained the sequence-to-sequence Transformer, Finally, translated 
+new sentences  with our Transformer model
+
+```
+
+link for week14_part2 = 
+

@@ -221,7 +221,7 @@ The Transformer encoder
   a subclassed layer. Putting it all together: A text-classification Transformer
 Combining the Transformer encoder with positional embedding.
 ```
-link for week14_part1 = https://github.com/Khai2708/AI_application_finalproject/blob/main/Week14LabAI_part1_transformer.ipynb
+link for week14_part1 = https://github.com/Khai2708/Ai_application/blob/main/Week14LabAI_part1_transformer.ipynb
 
 ![image](https://user-images.githubusercontent.com/90145797/205643306-c7954db0-d762-43f7-80a1-d5b64a1739aa.png)
 
@@ -245,7 +245,7 @@ new sentences  with our Transformer model
 
 ```
 
-link for week14_part2 = https://github.com/Khai2708/AI_application_finalproject/blob/main/Week14AILab_part2.ipynb
+link for week14_part2 = https://github.com/Khai2708/Ai_application/blob/main/Week14AILab_part2.ipynb
 
 ![image](https://user-images.githubusercontent.com/90145797/205660913-f413a259-563b-4c82-9aa9-6e189d5767f5.png)
 

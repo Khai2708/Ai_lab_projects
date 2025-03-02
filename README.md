@@ -1,4 +1,4 @@
-# Ai_application course
+# Ai_application course lab sessions
 ### Intro to Colab
 ```
 Getting started with Google Colab,
